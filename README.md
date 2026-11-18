@@ -15,6 +15,8 @@ A small-company Windows domain built from scratch in VirtualBox to practise real
 - **Network:** isolated VirtualBox NAT Network (`LabNet`, 10.0.2.0/24)
 - **Users:** 15 accounts across 4 departments (IT, HR, Sales, Finance), each in its own OU and security group
 
+**Host:** Windows 11 laptop (Intel i9, 32 GB RAM) running Oracle VirtualBox 7.2
+
 ## Skills shown
 
 - Installing Windows Server and promoting a domain controller (AD DS + DNS)
